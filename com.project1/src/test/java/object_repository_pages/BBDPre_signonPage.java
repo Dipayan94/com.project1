@@ -1,9 +1,4 @@
 package object_repository_pages;
-
-<<<<<<< HEAD
-public class BBDPre_signonPage
-{
-=======
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -42,6 +37,5 @@ public void setTokennumber(String Tn)
 {
 	TokenNumber.sendKeys(Tn);
 }
->>>>>>> branch 'master' of https://github.com/Dipayan94/com.project1
 
 }
