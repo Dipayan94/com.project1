@@ -13,7 +13,7 @@ static
 {
 
 	System.setProperty(CHROME_KEY,CHROME_VALUE);
-	System.setProperty(GECKO_KEY, GECKO_VALUE);
+	//System.setProperty(GECKO_KEY, GECKO_VALUE);
 }	
 @BeforeMethod
 public void openApplication()
